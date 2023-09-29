@@ -4,11 +4,11 @@ This Privacy Policy describes how the FrequentWords app processes and protects y
 
 Collected Information
 
-The Kaizen app does not collect, store, or process any personal user information. We do not have access to your tasks, account data, personal information, or any other confidential data.
+The FrequentWords app does not collect, store, or process any personal user information. We do not have access to your tasks, account data, personal information, or any other confidential data.
 
 Use of Information
 
-As the Kaizen app does not collect any personal information, we also do not use any information for any purposes. Your privacy and security remain our priority.
+As the FrequentWords app does not collect any personal information, we also do not use any information for any purposes. Your privacy and security remain our priority.
 
 Feedback and Support
 
